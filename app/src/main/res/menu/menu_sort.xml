@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single"
+        app:showAsAction="ifRoom"
+        android:id="@+id/action_sorted">
+        <item
+            android:id="@+id/action_ascending"
+            android:checked="false"
+            android:title="@string/ascending" />
+        <item
+            android:id="@+id/action_descending"
+            android:checked="false"
+            android:title="@string/descending" />
+        <item
+            android:id="@+id/action_random"
+            android:checked="false"
+            android:title="@string/random"/>
+    </group>
+</menu>
