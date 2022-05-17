@@ -52,4 +52,5 @@ ext {
     koinVersion = "2.1.6"
 
     lottieVersion = "5.0.3"
+    shimmerVersion = "0.5.0"
 }
