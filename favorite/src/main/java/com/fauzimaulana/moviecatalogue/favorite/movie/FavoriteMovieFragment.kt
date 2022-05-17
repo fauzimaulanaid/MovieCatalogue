@@ -39,9 +39,8 @@ class FavoriteMovieFragment : Fragment() {
             favoriteMovieAdapter = FavoriteMovieAdapter()
 
             favoriteMovieViewModel.getFavoriteMovies().observe(viewLifecycleOwner) { favoriteMovies ->
-                if (favoriteMovies != null) {
-                    favoriteMovieAdapter.submitList(favoriteMovies)
-                }
+                favoriteMovieAdapter.submitList(favoriteMovies)
+                fragmentFavoriteMovieBinding.viewEmpty.root.visibility = if (favoriteMovies.isNotEmpty()) View.GONE else View.VISIBLE
             }
 
             with(fragmentFavoriteMovieBinding.rvFavoriteMovie) {

@@ -50,4 +50,6 @@ ext {
     lifecycleVersion = "2.4.1"
 
     koinVersion = "2.1.6"
+
+    lottieVersion = "5.0.3"
 }

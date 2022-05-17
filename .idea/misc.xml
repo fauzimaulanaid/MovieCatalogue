@@ -40,6 +40,7 @@
         <entry key="..\:/AndroidStudioProjects/MovieCatalogue/favorite/src/main/res/layout/activity_favorite.xml" value="0.1539855072463768" />
         <entry key="..\:/AndroidStudioProjects/MovieCatalogue/favorite/src/main/res/layout/fragment_favorite_movie.xml" value="0.1539855072463768" />
         <entry key="..\:/AndroidStudioProjects/MovieCatalogue/favorite/src/main/res/layout/fragment_favorite_tv.xml" value="0.1539855072463768" />
+        <entry key="..\:/AndroidStudioProjects/MovieCatalogue/favorite/src/main/res/layout/view_empty.xml" value="0.15" />
       </map>
     </option>
   </component>

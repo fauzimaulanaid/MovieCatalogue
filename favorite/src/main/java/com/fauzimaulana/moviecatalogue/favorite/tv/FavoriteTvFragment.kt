@@ -40,6 +40,7 @@ class FavoriteTvFragment : Fragment() {
 
             favoriteTvViewModel.getFavoriteTvShows().observe(viewLifecycleOwner) { favoriteTvShows ->
                 favoriteTvAdapter.submitList(favoriteTvShows)
+                fragmentFavoriteTvBinding.viewEmpty.root.visibility = if (favoriteTvShows.isNotEmpty()) View.GONE else View.VISIBLE
             }
 
             with(fragmentFavoriteTvBinding.rvFavoriteTv) {
