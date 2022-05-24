@@ -38,4 +38,4 @@ Version 2.0 Built with:
 - Animation using Lottie
 - Loading Animation using Shimmer
 
-Version 1.0 was created for submission Menjadi Android Developer Expert Class at Dicoding.
+Version 2.0 was created for submission Menjadi Android Developer Expert Class at Dicoding.
