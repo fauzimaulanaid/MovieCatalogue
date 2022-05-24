@@ -17,7 +17,7 @@ Version 1.0 Built with:
 - Mockito (Unit Testing)
 - Espresso (Instrumentation Testing)
 
-Version 1.0 was created for submission Belajar Android Jetpack Pro Class at Dicoding.
+Version 1.0 was created for submission in Belajar Android Jetpack Pro Class at Dicoding.
 
 Version 2.0 Built with:
 - MVVM
@@ -39,4 +39,4 @@ Version 2.0 Built with:
 - Animation using Lottie
 - Loading Animation using Shimmer
 
-Version 2.0 was created for submission Menjadi Android Developer Expert Class at Dicoding.
+Version 2.0 was created for submission in Menjadi Android Developer Expert Class at Dicoding.
