@@ -1,6 +1,7 @@
+# Movie Catalogue
+
 [![fauzimaulanaid](https://circleci.com/gh/fauzimaulanaid/MovieCatalogue.svg?style=svg)](https://circleci.com/gh/fauzimaulanaid/MovieCatalogue)
 
-*Movie Catalogue*
 Version 1.0 Built with:
 - MVVM
 - RecyclerView
